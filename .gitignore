@@ -21,7 +21,7 @@ node_modules/
 
 # Archivos de construcción
 dist/
-build/
+#build/
 
 # Logs
 npm-debug.log*
